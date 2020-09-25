@@ -1,1 +1,5 @@
 main src
+
+function test() {
+    console.log ("This is a test console");
+}
