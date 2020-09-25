@@ -8,3 +8,8 @@ function test() {
 function test2() {
     console.log ("This is a test console");
 }
+
+
+function test3() {
+    console.log ("This is a test console");
+}
