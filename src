@@ -3,3 +3,8 @@ main src
 function test() {
     console.log ("This is a test console");
 }
+
+
+function test2() {
+    console.log ("This is a test console");
+}
